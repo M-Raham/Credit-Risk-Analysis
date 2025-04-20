@@ -12,7 +12,6 @@ from sklearn.metrics import (classification_report, roc_auc_score,
                            confusion_matrix, ConfusionMatrixDisplay)
 from imblearn.over_sampling import SMOTE
 from xgboost import XGBClassifier
-import shap
 
 # ===== DATA PREPARATION =====
 def load_and_preprocess():
