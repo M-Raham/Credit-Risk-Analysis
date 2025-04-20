@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-"""
-Optimized Credit Risk Prediction Model
-- Handles class imbalance with SMOTE + class weights
-- Feature engineering focused on delinquency patterns
-- F1-optimized decision threshold
-- Visual explanations
-"""
-
 # ===== IMPORTS =====
 import pandas as pd
 import numpy as np
