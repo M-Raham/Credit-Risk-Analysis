@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 2. Run the analysis:
 ```bash
-python credit_risk_analysis_optimized.py
+python credit_risk_analysis.py
 ```
 
 3. View outputs:
